@@ -5,6 +5,23 @@ This project demonstrates **user authentication, task management, file handling*
 
 ---
 
+## 📸 Screenshots
+
+### Login Screen
+![Login](screenshots/LoginPage.png)
+
+### Task Functions
+![Task Functions](screenshots/TaskFunctions.png)
+
+### Add Task
+![Add Task](screenshots/AddTaskPage.png)
+
+### Task Status
+![Task Status](screenshots/TaskStatus.png)
+
+### TaskCompletionStatus
+![Task Completion Status](screenshots/TaskCompletionStatus.png)
+
 ## 🚀 Features
 
 ### 🔐 User Authentication
